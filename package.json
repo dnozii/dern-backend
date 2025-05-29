@@ -1,0 +1,15 @@
+{
+  "name": "dern-support-backend",
+  "version": "1.0.0",
+  "main": "server/server.js",
+ "scripts": {
+  "start": "node backend/server/server.js",
+  "togit": "git add . && git commit -m 'Update backend' && git branch -m main && git checkout main && git push -U origin main"
+}
+,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
+

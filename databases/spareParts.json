@@ -1,0 +1,17 @@
+[
+    {
+      "id": 101,
+      "name": "8GB RAM",
+      "quantity": 5,
+      "price": 30,
+      "status": "low stock"
+    },
+    {
+      "id": 102,
+      "name": "512GB SSD",
+      "quantity": 12,
+      "price": 70,
+      "status": "in stock"
+    }
+  ]
+  

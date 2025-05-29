@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "email": "admin@dern.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 1748511229359,
+    "email": "adilnoza06@gmail.com",
+    "password": "asdfghnnn",
+    "role": "individual"
+  },
+  {
+    "id": 1748511257732,
+    "email": "blogchikuz@gmail.com",
+    "password": "abu",
+    "role": "individual"
+  }
+]
